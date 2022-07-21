@@ -1,0 +1,4 @@
+PRODUCER keyed-message
+topic: quickstart-events-1
+key: 1
+record content 1
