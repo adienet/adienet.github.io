@@ -1,4 +1,0 @@
-CONSUMER consumer-group-id
-topic: quickstart-events-1
-partitions: 0
-from: 1
