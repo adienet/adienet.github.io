@@ -6,9 +6,16 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Senior Software Engineer",
+    cardImage: "assets/images/experience-page/fisclouds.png",
+    place: "PT. FIS Clouds Innovation",
+    time: "(Jul, 2022 - present)",
+    desp: "<li>Java Spring Boot backend, postgresql, kafka, memcached, redis.</li>",
+  },
+  {
+    title: "Senior Software Engineer",
     cardImage: "assets/images/experience-page/interads.png",
     place: "PT. Interads Kreasi Indonesia",
-    time: "(Jun, 2019 - present)",
+    time: "(Jun, 2019 - Jul, 2022)",
     desp: "<li>Mobile android developer java native using mqtt protocol on device car top, tablet, and android tv.</li>",
   },
   {
