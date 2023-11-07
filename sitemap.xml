@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://adiekurniawan.my.id/index.html</loc>
-        <changefreq>monthly</changefreq>
+        <loc>https://adiekurniawan.my.id/index.html</loc>
         <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://adiekurniawan.my.id/experience.html</loc>
-        <changefreq>monthly</changefreq>
         <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://adiekurniawan.my.id/projects.html</loc>
-        <changefreq>monthly</changefreq>
         <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://adiekurniawan.my.id/education.html</loc>
-        <changefreq>monthly</changefreq>
         <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
     </url> 
 </urlset>
